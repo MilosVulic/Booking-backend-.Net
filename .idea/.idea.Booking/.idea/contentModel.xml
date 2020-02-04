@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Miskecpro\.Rider2019.3\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\Miskecpro\.Rider2019.3\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\Miskecpro\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Miskecpro\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Booking.-1244368434.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Miskecpro\RiderProjects\Booking" t="IncludeRecursive">
+      <e p="Accommodation" t="Include">
+        <e p="Accommodation.cs" t="Include" />
+        <e p="AccommodationsController.cs" t="Include" />
+        <e p="AccommodationService.cs" t="Include" />
+        <e p="Address.cs" t="Include" />
+        <e p="IAccommodationService.cs" t="Include" />
+      </e>
+      <e p="Apartment" t="Include">
+        <e p="Apartment.cs" t="Include" />
+        <e p="ApartmentsController.cs" t="Include" />
+        <e p="ApartmentService.cs" t="Include" />
+        <e p="IApartmentService.cs" t="Include" />
+      </e>
+      <e p="appsettings.Development.json" t="Include" />
+      <e p="appsettings.json" t="Include" />
+      <e p="Auth" t="Include">
+        <e p="AppSettings.cs" t="Include" />
+        <e p="Encoding.cs" t="Include" />
+        <e p="JwtGenerator.cs" t="Include" />
+      </e>
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Booking.csproj" t="IncludeRecursive" />
+      <e p="Booking.sln" t="IncludeFlat" />
+      <e p="Comments" t="Include">
+        <e p="Comment.cs" t="Include" />
+        <e p="CommentsController.cs" t="Include" />
+        <e p="CommentService.cs" t="Include" />
+        <e p="ICommentService.cs" t="Include" />
+      </e>
+      <e p="config" t="Include">
+        <e p="BookingDatabaseSettings.cs" t="Include" />
+      </e>
+      <e p="Controllers" t="Include">
+        <e p="ValuesController.cs" t="Include" />
+      </e>
+      <e p="Models" t="Include">
+        <e p="AuthenticateModel.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp2.2" t="Include">
+            <e p="Booking.AssemblyInfo.cs" t="Include" />
+            <e p="Booking.RazorAssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="launchSettings.json" t="Include" />
+      </e>
+      <e p="Recension" t="Include">
+        <e p="IRecensionService.cs" t="Include" />
+        <e p="Recension.cs" t="Include" />
+        <e p="RecensionsController.cs" t="Include" />
+        <e p="RecensionService.cs" t="Include" />
+      </e>
+      <e p="Startup.cs" t="Include" />
+      <e p="User" t="Include">
+        <e p="ERole.cs" t="Include" />
+        <e p="IUserService.cs" t="Include" />
+        <e p="User.cs" t="Include" />
+        <e p="UsersController.cs" t="Include" />
+        <e p="UserService.cs" t="Include" />
+      </e>
+    </e>
+  </component>
+</project>

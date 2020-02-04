@@ -1,0 +1,89 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\Miskecpro\\RiderProjects\\Booking\\Booking.csproj",
+    "projectName": "Booking",
+    "projectPath": "C:\\Users\\Miskecpro\\RiderProjects\\Booking\\Booking.csproj",
+    "outputPath": "C:\\Users\\Miskecpro\\RiderProjects\\Booking\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Users\\Miskecpro\\.dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "JWT": {
+          "target": "Package",
+          "version": "[6.0.0-beta3, )"
+        },
+        "Microsoft.AspNetCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        },
+        "Microsoft.AspNetCore.Authentication.JwtBearer": {
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
+        "Microsoft.AspNetCore.Razor.Design": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        },
+        "MongoDB.Bson": {
+          "target": "Package",
+          "version": "[2.10.0, )"
+        },
+        "MongoDB.Driver": {
+          "target": "Package",
+          "version": "[2.10.0, )"
+        },
+        "MongoDB.Driver.Core": {
+          "target": "Package",
+          "version": "[2.10.0, )"
+        },
+        "MySql.Data": {
+          "target": "Package",
+          "version": "[8.0.18, )"
+        },
+        "MySql.Data.EntityFrameworkCore": {
+          "target": "Package",
+          "version": "[8.0.18, )"
+        },
+        "System.IdentityModel.Tokens.Jwt": {
+          "target": "Package",
+          "version": "[5.6.0, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\Miskecpro\RiderProjects\Booking\bin\Debug\netcoreapp2.2\Booking.deps.json
+C:\Users\Miskecpro\RiderProjects\Booking\bin\Debug\netcoreapp2.2\Booking.runtimeconfig.json
+C:\Users\Miskecpro\RiderProjects\Booking\bin\Debug\netcoreapp2.2\Booking.runtimeconfig.dev.json
+C:\Users\Miskecpro\RiderProjects\Booking\bin\Debug\netcoreapp2.2\Booking.dll
+C:\Users\Miskecpro\RiderProjects\Booking\bin\Debug\netcoreapp2.2\Booking.pdb
+C:\Users\Miskecpro\RiderProjects\Booking\obj\Debug\netcoreapp2.2\Booking.csprojAssemblyReference.cache
+C:\Users\Miskecpro\RiderProjects\Booking\obj\Debug\netcoreapp2.2\Booking.csproj.CoreCompileInputs.cache
+C:\Users\Miskecpro\RiderProjects\Booking\obj\Debug\netcoreapp2.2\Booking.RazorAssemblyInfo.cache
+C:\Users\Miskecpro\RiderProjects\Booking\obj\Debug\netcoreapp2.2\Booking.RazorAssemblyInfo.cs
+C:\Users\Miskecpro\RiderProjects\Booking\obj\Debug\netcoreapp2.2\Booking.AssemblyInfoInputs.cache
+C:\Users\Miskecpro\RiderProjects\Booking\obj\Debug\netcoreapp2.2\Booking.AssemblyInfo.cs
+C:\Users\Miskecpro\RiderProjects\Booking\obj\Debug\netcoreapp2.2\Booking.RazorTargetAssemblyInfo.cache
+C:\Users\Miskecpro\RiderProjects\Booking\obj\Debug\netcoreapp2.2\Booking.dll
+C:\Users\Miskecpro\RiderProjects\Booking\obj\Debug\netcoreapp2.2\Booking.pdb
