@@ -12,3 +12,19 @@ C:\Users\Miskecpro\RiderProjects\Booking\obj\Debug\netcoreapp2.2\Booking.Assembl
 C:\Users\Miskecpro\RiderProjects\Booking\obj\Debug\netcoreapp2.2\Booking.RazorTargetAssemblyInfo.cache
 C:\Users\Miskecpro\RiderProjects\Booking\obj\Debug\netcoreapp2.2\Booking.dll
 C:\Users\Miskecpro\RiderProjects\Booking\obj\Debug\netcoreapp2.2\Booking.pdb
+C:\Users\Fujitsu A557\Desktop\Booking-backend-.Net\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Fujitsu A557\Desktop\Booking-backend-.Net\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Fujitsu A557\Desktop\Booking-backend-.Net\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Fujitsu A557\Desktop\Booking-backend-.Net\bin\Debug\netcoreapp2.2\Booking.deps.json
+C:\Users\Fujitsu A557\Desktop\Booking-backend-.Net\bin\Debug\netcoreapp2.2\Booking.runtimeconfig.json
+C:\Users\Fujitsu A557\Desktop\Booking-backend-.Net\bin\Debug\netcoreapp2.2\Booking.runtimeconfig.dev.json
+C:\Users\Fujitsu A557\Desktop\Booking-backend-.Net\bin\Debug\netcoreapp2.2\Booking.dll
+C:\Users\Fujitsu A557\Desktop\Booking-backend-.Net\bin\Debug\netcoreapp2.2\Booking.pdb
+C:\Users\Fujitsu A557\Desktop\Booking-backend-.Net\obj\Debug\netcoreapp2.2\Booking.csprojAssemblyReference.cache
+C:\Users\Fujitsu A557\Desktop\Booking-backend-.Net\obj\Debug\netcoreapp2.2\Booking.RazorAssemblyInfo.cache
+C:\Users\Fujitsu A557\Desktop\Booking-backend-.Net\obj\Debug\netcoreapp2.2\Booking.RazorAssemblyInfo.cs
+C:\Users\Fujitsu A557\Desktop\Booking-backend-.Net\obj\Debug\netcoreapp2.2\Booking.AssemblyInfoInputs.cache
+C:\Users\Fujitsu A557\Desktop\Booking-backend-.Net\obj\Debug\netcoreapp2.2\Booking.AssemblyInfo.cs
+C:\Users\Fujitsu A557\Desktop\Booking-backend-.Net\obj\Debug\netcoreapp2.2\Booking.RazorTargetAssemblyInfo.cache
+C:\Users\Fujitsu A557\Desktop\Booking-backend-.Net\obj\Debug\netcoreapp2.2\Booking.dll
+C:\Users\Fujitsu A557\Desktop\Booking-backend-.Net\obj\Debug\netcoreapp2.2\Booking.pdb

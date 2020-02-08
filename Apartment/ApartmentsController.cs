@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Booking.Apartment
@@ -23,6 +24,7 @@ namespace Booking.Apartment
         [HttpGet]
         public ActionResult<List<Apartment>> GetAllApartments()
         {
+            Console.WriteLine(_apartmentService.GetAllApartments().First().BedNumber);
             return _apartmentService.GetAllApartments();
         }
     }

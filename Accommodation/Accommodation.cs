@@ -11,7 +11,7 @@ namespace Booking.Accommodation
 
         public Address Address { get; set; }
 
-        public List<string> ListUrlPics { get; set; }
+        public string UrlPic { get; set; }
 
         public string UserId { get; set; }
 

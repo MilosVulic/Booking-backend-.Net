@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using Booking.Config;
 using MongoDB.Driver;
 
@@ -28,11 +29,12 @@ namespace Booking.User
 
         public User GetUserByCredentials(string username, string password)
         {
-            return _users.Find(user => user.Username == username && user.Password == password).First();
+            return _users.Find(user => user.Username == username && user.Password == password).FirstOrDefault();
         }
 
         public User InsertUser(User user)
         {
+            user.Id = Guid.NewGuid().ToString();
             _users.InsertOne(user);
             return user;
         }

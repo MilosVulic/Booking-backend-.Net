@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\Miskecpro\.Rider2019.3\config\consoles\db" t="IncludeRecursive" />
-    <e p="C:\Users\Miskecpro\.Rider2019.3\config\extensions" t="IncludeRecursive" />
-    <e p="C:\Users\Miskecpro\.Rider2019.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\Miskecpro\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Booking.-1244368434.00" t="ExcludeRecursive" />
-    <e p="C:\Users\Miskecpro\RiderProjects\Booking" t="IncludeRecursive">
+    <e p="C:\Users\Fujitsu A557\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Fujitsu A557\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Booking.-218758328.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Fujitsu A557\Desktop\Booking-backend-.Net" t="IncludeRecursive">
       <e p="Accommodation" t="Include">
         <e p="Accommodation.cs" t="Include" />
+        <e p="AccommodationDTO.cs" t="Include" />
         <e p="AccommodationsController.cs" t="Include" />
         <e p="AccommodationService.cs" t="Include" />
         <e p="Address.cs" t="Include" />
@@ -57,11 +56,18 @@
       <e p="Properties" t="Include">
         <e p="launchSettings.json" t="Include" />
       </e>
+      <e p="README.md" t="Include" />
       <e p="Recension" t="Include">
         <e p="IRecensionService.cs" t="Include" />
         <e p="Recension.cs" t="Include" />
         <e p="RecensionsController.cs" t="Include" />
         <e p="RecensionService.cs" t="Include" />
+      </e>
+      <e p="Reservation" t="Include">
+        <e p="IReservationService.cs" t="Include" />
+        <e p="Reservation.cs" t="Include" />
+        <e p="ReservationsController.cs" t="Include" />
+        <e p="ReservationService.cs" t="Include" />
       </e>
       <e p="Startup.cs" t="Include" />
       <e p="User" t="Include">

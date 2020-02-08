@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using Booking.Config;
 using MongoDB.Driver;
 
@@ -28,6 +29,7 @@ namespace Booking.Accommodation
 
         public Accommodation InsertAccommodation(Accommodation accommodation)
         {
+            accommodation.Id = Guid.NewGuid().ToString();
             _accommodations.InsertOne(accommodation);
             return accommodation;
         }

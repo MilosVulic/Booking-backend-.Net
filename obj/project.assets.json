@@ -13466,23 +13466,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Miskecpro\\.nuget\\packages\\": {},
-    "C:\\Users\\Miskecpro\\.dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Fujitsu A557\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Miskecpro\\RiderProjects\\Booking\\Booking.csproj",
+      "projectUniqueName": "C:\\Users\\Fujitsu A557\\Desktop\\Booking-backend-.Net\\Booking.csproj",
       "projectName": "Booking",
-      "projectPath": "C:\\Users\\Miskecpro\\RiderProjects\\Booking\\Booking.csproj",
-      "packagesPath": "C:\\Users\\Miskecpro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Miskecpro\\RiderProjects\\Booking\\obj\\",
+      "projectPath": "C:\\Users\\Fujitsu A557\\Desktop\\Booking-backend-.Net\\Booking.csproj",
+      "packagesPath": "C:\\Users\\Fujitsu A557\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Fujitsu A557\\Desktop\\Booking-backend-.Net\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Users\\Miskecpro\\.dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Miskecpro\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Fujitsu A557\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
@@ -13555,10 +13555,16 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

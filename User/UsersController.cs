@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.IdentityModel.Tokens.Jwt;
 using Booking.Auth;
 using Booking.Models;
@@ -9,6 +10,7 @@ namespace Booking.User
 {
     [Authorize]
     [Route("api/[controller]")]
+    [Produces("application/json")]
     public class UsersController : Controller
     {
         private readonly UserService _userService;
@@ -22,6 +24,13 @@ namespace Booking.User
         public ActionResult<List<User>> GetAllUsers()
         {
             return _userService.GetAllUsers();
+        }
+        
+        [AllowAnonymous]
+        [HttpPost]
+        public ActionResult<User> PostUser([FromBody]User user)
+        {
+            return _userService.InsertUser(user);
         }
         
 
